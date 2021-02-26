@@ -1,12 +1,6 @@
 import requests
 import hashlib
 import sys
-# use hash for password
-# What is a hash function - inputs a value for fixed length
-# for each input it gets
-# k-anonymity
-# also called idempotent
-# hash tables are better than arrays
 
 
 def request_api_data(query_char):
